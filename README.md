@@ -1,5 +1,5 @@
 ### Hi, I'm Wellington A. Moreira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
+[![Website](https://img.shields.io/badge/Software%20Engineer-Exclusiva%20Consultoria-brightgreen)](https://exclusivamidia.com/)
 
 ## Your short description
 - 🔭 I’m currently working on - App Radio Nova Geração
