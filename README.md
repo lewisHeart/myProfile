@@ -7,7 +7,7 @@
 - 🏂 I have ventured onto the platform - GitLab
 - 👯 I’m looking to collaborate with - Other Developers in Community and Opensource projects
 - 💬 Ask me about - HTML, CSS, Design and Figma XD
-- 🥅 2021 Goal - Be a Full Stack Programmer 
+- 🥅 2023 Goal - 
 - ⚡ Fun fact - I love bread
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
