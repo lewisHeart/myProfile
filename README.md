@@ -11,7 +11,7 @@
 - ⚡ Fun fact - I love bread
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
-[![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=LeroyLaw&count_private=true&include_all_commits=true&theme=radical)](https://github.com/LeroyLaw/)
+
 ## Connect with me:
 [<img align="left" alt="instagram" width="22px" src="https://raw.githubusercontent.com/ionic-team/ionicons/master/src/svg/logo-instagram.svg" />][instagram]
 [<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
