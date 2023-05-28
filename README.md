@@ -2,11 +2,10 @@
 [![Website](https://img.shields.io/badge/Software%20Engineer-Exclusiva%20Consultoria-brightgreen)](https://exclusivamidia.com/)
 
 ## My short description
-- 🔭 I’m currently working on - App Radio Nova Geração
-- 🌱 I’m currently learning - JavaScript, React, React Native
+- 🌱 I’m currently learning - Rust
 - 🏂 I have ventured onto the platform - GitLab
 - 👯 I’m looking to collaborate with - Other Developers in Community and Opensource projects
-- 💬 Ask me about - HTML, CSS, Design and Figma XD
+- 💬 Ask me about - HTML, CSS, Design and Figma 
 - 🥅 2023 Goal - 
 - ⚡ Fun fact - I love bread
 <!-- ❔❔❔❔ means username in below README.md -->
